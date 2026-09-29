@@ -1,9 +1,9 @@
 class Byobu < Formula
   desc "Text-based window manager and terminal multiplexer"
   homepage "https://github.com/dustinkirkland/byobu"
-  url "https://github.com/dustinkirkland/byobu/archive/refs/tags/7.19.tar.gz"
-  sha256 "d246c57ba380b4fa680b783997ff189c51b9f4dd12edf4b719a1f2d84a2e1d2e"
-  version "7.19"
+  url "https://github.com/dustinkirkland/byobu/archive/refs/tags/7.20.tar.gz"
+  sha256 "aa2563a0567f2c74e62d03b4a07bf7f1f005c88e8cf8007194c873c770371931"
+  version "7.20"
   license "GPL-3.0-only"
 
   head "https://github.com/dustinkirkland/byobu.git", branch: "master"
